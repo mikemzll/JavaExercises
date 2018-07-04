@@ -15,7 +15,7 @@ public class Exercise {
         b = speed * c;
 
         System.out.println("The distance is: " + b + "ft");
-        System.out.println("\n Have a nice day! \n 06.30.18.MikeMoll" );
+        System.out.println("\n Have a nice day! \n 07.05.18.MikeMoll" );
 
     }
 
